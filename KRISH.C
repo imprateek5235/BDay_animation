@@ -3,9 +3,9 @@
 #include<graphics.h>
 #include<conio.h>
 #include<dos.h>
-voif demo1(void)
+voif demo2(void)
 {
-print("demo1")
+print("demo2")
 }
 void main()
 {
