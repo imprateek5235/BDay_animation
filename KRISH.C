@@ -3,6 +3,10 @@
 #include<graphics.h>
 #include<conio.h>
 #include<dos.h>
+voif demo1(void)
+{
+print("demo1")
+}
 void main()
 {
  int gd=DETECT,gm,i=1;
