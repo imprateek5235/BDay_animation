@@ -3,9 +3,13 @@
 #include<graphics.h>
 #include<conio.h>
 #include<dos.h>
+
 voif demo2(void)
 {
 print("demo2")
+}
+voif demo1(void){
+print("demo1")
 }
 void main()
 {
