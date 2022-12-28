@@ -1,3 +1,5 @@
 data.txt
+*.pdf
 *.py
 *.java
+*.cpp
