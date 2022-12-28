@@ -1,3 +1,3 @@
-# Prateek Sahu
+# C project of birthday animation
 
-#### C project 
+####  birthday moving animation code in C language
